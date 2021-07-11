@@ -1,42 +1,41 @@
 {
   "project_info": {
-    "project_number": "708303624790",
-    "firebase_url": "https://social-app-8553f.firebaseio.com",
-    "project_id": "social-app-8553f",
-    "storage_bucket": "social-app-8553f.appspot.com"
+    "project_number": "901277198903",
+    "project_id": "social-app-22222",
+    "storage_bucket": "social-app-22222.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:708303624790:android:050b0926ebb09a393eb9f7",
+        "mobilesdk_app_id": "1:901277198903:android:83fd80df3526c2fbbd2db2",
         "android_client_info": {
           "package_name": "com.example.socialapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "708303624790-i7i637fq4ln97k551dt32vdmft6ve1ca.apps.googleusercontent.com",
+          "client_id": "901277198903-igsmrq87fva574qhim44q21qkd0aqcrg.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.socialapp",
-            "certificate_hash": "5395a7bae806cf186ac50f4575172efb961ddbe7"
+            "certificate_hash": "f80127d43a0a77254013846cd45a65bf03d48fce"
           }
         },
         {
-          "client_id": "708303624790-r9p0blcnldtprs5n4pceigp5flj469cg.apps.googleusercontent.com",
+          "client_id": "901277198903-u97091tl2jqvkl3ht926l6gt5b1dc0ah.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBMkjAWq8fvxDQwFTT_u-ul3mkEEcRpR5A"
+          "current_key": "AIzaSyDv17zP8UPdVInJ17hraSUZ9S3Ab7cztKM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "708303624790-r9p0blcnldtprs5n4pceigp5flj469cg.apps.googleusercontent.com",
+              "client_id": "901277198903-u97091tl2jqvkl3ht926l6gt5b1dc0ah.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
